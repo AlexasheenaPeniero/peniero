@@ -1,0 +1,14 @@
+body{
+font-family:bauhaus 93,sens-serif;
+margin: 0;
+padding:20px;
+background-color:
+text-align:center;
+}
+
+img{
+width: 200px;
+height:auto;
+border: radius 10px;
+box-shadow: 0 4px 8px;
+}
